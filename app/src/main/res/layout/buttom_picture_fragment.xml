@@ -14,7 +14,7 @@
         android:textColor="#FFF"
         android:textIsSelectable="true"
         android:gravity="center_horizontal"
-        android:textSize="60dp"
+        android:textSize="55dp"
         android:textStyle="bold" />
 
     <TextView
@@ -27,6 +27,6 @@
         android:layout_centerHorizontal="true"
         android:textColor="#FFF"
         android:gravity="center_horizontal"
-        android:textSize="50dp"
+        android:textSize="45dp"
         android:textStyle="bold" />
 </RelativeLayout>
